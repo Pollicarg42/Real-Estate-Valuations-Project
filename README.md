@@ -1,7 +1,7 @@
 # Real-Estate-Valuations-Project
 This project was the final Exercise for Career Foundry Data Analytics course. This project sourced, analyzed and visualized variables of real estate prices. 
 
-Link to Tableau Presentation: https://public.tableau.com/shared/28596SSWY?:display_count=n&:origin=viz_share_link
+Link to Tableau Presentation: [https://public.tableau.com/shared/28596SSWY?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/HKJ3K58PX?:display_count=n&:origin=viz_share_link)
 
 ## Objective
 This project aimed to showcase skills in python for data analysis specifically sourcing open data and exploring it using supervised/unsupervised machine learning. The data was sourced from publicly shared data in Kaggle and Quandl libraries. The data was analyzed using Pandas and visualizations were made using matplotlib libraries. The deliverable for this exercise are the python code in Jupyter notebooks under Scrypts, a Tableau presentation, and a powerpoint presentation. 
