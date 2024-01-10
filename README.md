@@ -11,28 +11,28 @@ This project consists of analyzing open sourced real estate data from Kaggle. Th
 
 ## Skills Developed in this Project:
 ### Source and Clean Data for Analysis
-&nbsp;&nbsp;&nbsp;&nbsp;Sourcing and exploring open sourced data, geographic libraries (Folium), Time Series (Quandl)
+&nbsp;&nbsp;&nbsp;&nbsp;Sourcing and exploring open sourced data, geographic libraries (Folium), Time Series (Quandl)<br />
 &nbsp;&nbsp;&nbsp;&nbsp; Merging and formatting attributes. 
 
 ### Using Geographic Data
-&nbsp;&nbsp;&nbsp;&nbsp; Use library Folium to conduct geospatial analysis
-&nbsp;&nbsp;&nbsp;&nbsp; Generated chloropleth visualizations with sourced data. 
+&nbsp;&nbsp;&nbsp;&nbsp; Use library Folium to conduct geospatial analysis<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Generated chloropleth visualizations with sourced data. <br />
 
 ### Supervised and Unsupervised Machine Learning
-&nbsp;&nbsp;&nbsp;&nbsp; Regression analysis of real estate data variables
-&nbsp;&nbsp;&nbsp;&nbsp; Clustering and Time Series analysis
+&nbsp;&nbsp;&nbsp;&nbsp; Regression analysis of real estate data variables <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Clustering and Time Series analysis<br />
 
 ## Data Sources Used:
 ### Property Listings From Realtor.com
-14 million entries of properties in the Northeast region. 
+14 million entries of properties in the Northeast region. <br />
 Contains property price listings, number of beds/bathrooms, 
-Available floor space in Total Square foot, Total Lot size in Acreage. 
-It covers 2009-2023, Sourced from Kaggle.
-Limitations: Only sourced from Realtors.com and no other reliable real estate listings service. Biased towards Northeastern United States properties.
-Source Link: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data
+Available floor space in Total Square foot, Total Lot size in Acreage. <br />
+It covers 2009-2023, Sourced from Kaggle.<br />
+Limitations: Only sourced from Realtors.com and no other reliable real estate listings service. Biased towards Northeastern United States properties.<br />
+Source Link: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data<br />
 
-### Median Property Values over Time from Zillow.com
-Median value of properties sold in the past for all United States regions. Contains regional data, median property value, and region id. It covers 2008-2023
-Sourced from Quandl Library - Nasdaq Data Link
-Limitations: Only sourced from Zillow.com, no other external source. Biased towards properties that have already been sold.
+### Median Property Values over Time from Zillow.com<br />
+Median value of properties sold in the past for all United States regions. Contains regional data, median property value, and region id. It covers 2008-2023<br />
+Sourced from Quandl Library - Nasdaq Data Link<br />
+Limitations: Only sourced from Zillow.com, no other external source. Biased towards properties that have already been sold.<br />
 Source Link: https://data.nasdaq.com/databases/ZILLOW
